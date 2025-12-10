@@ -7,6 +7,18 @@
 
 -It demonstrates a complete deep-learning workflow including data preparation, augmentation, model training, evaluation, and prediction.
 
+| Attribute             | Description                                               |
+| --------------------- | --------------------------------------------------------- |
+| **Dataset Name**      | **Dogs vs Cats Image Classification**                            |
+| **Total Images**      | **37,500** (approx.)                                      |
+| **Training Images**   | **20000**                                                |
+| **Validation Images**    | **5000**                                                 |
+| **Validation Images** | **12500**                                                  |
+| **Number of Classes** | **2** (Dod ,Cat) |
+| **Data Format**       | **JPEG Images**                                           |
+
+---
+
 ---
 ## 📌 1. Project Objectives
 
